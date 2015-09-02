@@ -234,6 +234,6 @@ time span (in seconds).
 
 call_signatures_validity = 3.0
 """
-Finding function calls might be slow (0.1-0.5s). This is not acceptible for
+Finding function calls might be slow (0.1-0.5s). This is not acceptable for
 normal writing. Therefore cache it for a short time.
 """
